@@ -1,6 +1,6 @@
-# goit-js-hw-08-gallery
+# js-08-gallery
 
-Folder.Модуль 8 - Всплытие событий. Intersection Observer
+Всплытие событий. Intersection Observer
 
 <!-- ! Разбей задание на несколько подзадач:
 
